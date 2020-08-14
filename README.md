@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=YeahPotato&hide=[%22issues]&show)icons=true
+![github stats](https://github-readme-stats.vercel.app/api?username=YeahPotato&hide=[%22issues]&show_icons=true)
 <!--
 **YeahPotato/YeahPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
